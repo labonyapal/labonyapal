@@ -1,59 +1,75 @@
 <div align="center">
 
-# Hi, I'm Labonya Pal 👋
+# Labonya Pal
 
-**CS Undergrad @ University of Dhaka  ·  Aspiring Web Developer & AI Engineer**
+**AI Engineer & Full-Stack Developer in the making**
+**CS Undergrad · University of Dhaka**
 
 <p>
   <a href="mailto:labonyapal@gmail.com">
     <img src="https://img.shields.io/badge/Email-labonyapal@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/gojo_saturo11">
-    <img src="https://img.shields.io/badge/Codeforces-gojo_saturo11-445f9d?style=flat&logo=Codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-gojo__saturo11-445f9d?style=flat&logo=Codeforces&logoColor=white" />
   </a>
+  <!-- Add LinkedIn once you have one:
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  -->
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a 3rd-year Computer Science student at the University of Dhaka,
-building toward a career as a **Full-Stack Web Developer** and **AI Engineer**.
+I'm a 3rd-year Computer Science student at the University of Dhaka, building at the
+intersection of **AI/ML** and **full-stack web development**. I enjoy training deep
+learning models, designing REST APIs, and building cross-platform apps.
 
-- 🌱 Currently learning: **React, Node.js, and Machine Learning fundamentals**
-- 🔨 Building: Full-stack web applications and AI-powered tools
-- 🏆 Competitive programmer on Codeforces (handle: gojo_saturo11)
-- 💡 Interested in: LLMs, computer vision, and intelligent web apps
-- 📫 Reach me at: labonyapal@gmail.com
+- 🔬 Currently working on: deep learning research in computer vision
+- 🌱 Expanding into: React.js, Next.js, and full-stack web applications
+- 🏆 Competitive programmer on Codeforces
+- 💡 Long-term goal: build intelligent, user-facing AI products
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
 
-### Web Development
+### Web & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### AI / ML
-![Python](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### Tools
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -61,7 +77,7 @@ building toward a career as a **Full-Stack Web Developer** and **AI Engineer**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labonyapal&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labonyapal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labonyapal&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -69,11 +85,20 @@ building toward a career as a **Full-Stack Web Developer** and **AI Engineer**.
 
 </div>
 
+---
+
+## 📌 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [VisionDeblur](#) | CNN-based image deblurring with perceptual loss (VGG16) | PyTorch, Python |
+| [Curator AI](https://github.com/labonyapal/Curator-AI-Intelligent-Academic-Assistant) | ntelligent Academic Assistant — Powered by Local AI | Python |
+
 
 ---
 
 <div align="center">
 
-*"The expert in anything was once a beginner."*
+**Open to internships, collaborations, and open source contributions.**
 
 </div>
